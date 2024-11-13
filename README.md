@@ -37,7 +37,7 @@ android {
 
 dependencies {
     implementation 'com.github.digio-tech:gateway:v4.0.10'
-    implementation 'com.github.digio-tech:gateway_kyc:v4.0.13'
+    implementation("com.github.digio-tech:sdk_ml_camera:5.0.0.3")
     
     // Other dependencies
     implementation 'androidx.appcompat:appcompat:1.6.1'
