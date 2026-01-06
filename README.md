@@ -1,1 +1,1 @@
-## Digio SDK
+## Digio Capture kit SDK
