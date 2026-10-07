@@ -9,7 +9,7 @@ KYC flows (selfie capture, face crop, document capture).
 Distributed as an AAR via JitPack.
 
 ## Version
-Current: **5.1.36** — see [Releases](../../releases) for the changelog.
+Current: **5.1.40** — see [Releases](../../releases) for the changelog.
 
 ## Requirements
 - Android `minSdk` 24
